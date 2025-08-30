@@ -12,7 +12,7 @@ This repository contains the final project for a Signal and System (Sinyal dan S
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    git clone [https://github.com/mukhlisfarhan/Audio-Filtering-Analysis.git](https://github.com/mukhlisfarhan/Audio-Filtering-Analysis.git)
     cd your-repository-name
     ```
 
@@ -30,7 +30,7 @@ This repository contains the final project for a Signal and System (Sinyal dan S
 
 ## Project Report
 
-For a detailed explanation of the project, including the theoretical background of digital filters and signal processing, please refer to the `Laporan_Final Project_PSD.docx` file.
+For a detailed explanation of the project, including the theoretical background of digital filters and signal processing, please refer to the `Laporan_Final Project_PSD.pdf` file.
 
 ## Video Presentation
 
