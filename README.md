@@ -13,7 +13,7 @@ This repository contains the final project for a Signal and System (Sinyal dan S
 1.  **Clone the Repository:**
     ```bash
     git clone [https://github.com/mukhlisfarhan/Audio-Filtering-Analysis.git](https://github.com/mukhlisfarhan/Audio-Filtering-Analysis.git)
-    cd your-repository-name
+    cd Audio-Filtering-Analysis
     ```
 
 2.  **Install Dependencies:**
